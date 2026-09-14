@@ -3,10 +3,10 @@
 A simple UI clone of the Banque Misr (بنك مصر) Android application login screen. I built this mini-project to practice and solidify the **fundamentals of Jetpack Compose**, focusing on basic UI components, state management, and layout structuring as I transition from XML to modern declarative UI.
 
 ## 📱 Screenshots
-|<img width="250"  alt="EN" src="https://github.com/user-attachments/assets/f8f51e22-a9c6-4c07-a9e0-7107a4a6f10e" />
-|<img width="250"  alt="arabic" src="https://github.com/user-attachments/assets/a19abfc2-f953-40ac-9d89-de75b246f5a9" />
-|
-|:---:|:---:|
+|<img width="250"  alt="EN" src="https://github.com/user-attachments/assets/f8f51e22-a9c6-4c07-a9e0-7107a4a6f10e" />|
+|<img width="250"  alt="arabic" src="https://github.com/user-attachments/assets/a19abfc2-f953-40ac-9d89-de75b246f5a9" />|
+|<img width="250"  alt="Screenshot_20260914_185807" src="https://github.com/user-attachments/assets/7c7df01f-fb53-4088-9036-a5a628f81ad0" />|
+|:---:|:---:|:---:|
 | English Layout (LTR) | Arabic Layout (RTL) |
 
 
