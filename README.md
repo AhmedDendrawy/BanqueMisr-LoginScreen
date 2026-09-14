@@ -3,11 +3,12 @@
 A simple UI clone of the Banque Misr (بنك مصر) Android application login screen. I built this mini-project to practice and solidify the **fundamentals of Jetpack Compose**, focusing on basic UI components, state management, and layout structuring as I transition from XML to modern declarative UI.
 
 ## 📱 Screenshots
-|<img width="250"  alt="Screenshot_20260914_184323" src="https://github.com/user-attachments/assets/35389a88-5fbc-47f2-ad67-9c60bc37f574" />|<img width="250"  alt="Screenshot_20260914_184323" src="https://github.com/user-attachments/assets/35389a88-5fbc-47f2-ad67-9c60bc37f574" />
+|<img width="250"  alt="EN" src="https://github.com/user-attachments/assets/f8f51e22-a9c6-4c07-a9e0-7107a4a6f10e" />
+|<img width="250"  alt="arabic" src="https://github.com/user-attachments/assets/a19abfc2-f953-40ac-9d89-de75b246f5a9" />
 |
-|:---:|:---:|![Uploading Screenshot_20260914_184342.png…]()
-
+|:---:|:---:|
 | English Layout (LTR) | Arabic Layout (RTL) |
+
 
 ## 🎯 What I Practiced (Compose Fundamentals)
 Through building this single-screen app, I got hands-on experience with core Compose concepts:
@@ -30,4 +31,5 @@ Through building this single-screen app, I got hands-on experience with core Com
 
 ---
 *Note: This is strictly an educational project built to practice Jetpack Compose UI basics.*
+
 
